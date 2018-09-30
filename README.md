@@ -4,9 +4,10 @@ C'est dans ce dépôt que tu trouveras les problèmes proposés par le Club Algo
 
 ## Problèmes
 
-| Problème                          | Début des soumissions      | Solutions proposées |
-|-----------------------------------|----------------------------|---------------------|
-| [Anagrammes](anagrammes/sujet.md) | 2 octobre 2018 à 13 heures | _non ouvert_        |
+| Problème                                             | Début des soumissions      | Solutions proposées |
+|------------------------------------------------------|----------------------------|---------------------|
+| [Anagrammes](anagrammes/sujet.md)                    | 2 octobre 2018 à 13 heures | _non ouvert_        |
+| Trouver son chemin entre deux articles sur Wikipédia | 9 octobre 2018 à 13 heures | _non ouvert_        |
 
 ## Comment soumettre une solution?
 
