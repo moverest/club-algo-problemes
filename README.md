@@ -6,7 +6,7 @@ C'est dans ce dépôt que tu trouveras les problèmes proposés par le Club Algo
 
 | Problème                                             | Début des soumissions      | Solutions proposées |
 |------------------------------------------------------|----------------------------|---------------------|
-| [Anagrammes](anagrammes/sujet.md)                    | 2 octobre 2018 à 13 heures | _non ouvert_        |
+| [Anagrammes](anagrammes/sujet.md)                    | 2 octobre 2018 à 13 heures | -                   |
 | Trouver son chemin entre deux articles sur Wikipédia | 9 octobre 2018 à 13 heures | _non ouvert_        |
 
 ## Comment soumettre une solution?
