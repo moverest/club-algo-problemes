@@ -13,3 +13,5 @@ def anagramme(dico):
     for i in L.values():
         if len(i)>1:
             print(i)
+
+anagramme(['renne','danger','reine','neige','regle','reglai','aigle','gamma','enigme','arene','arena','mirage','magie','gamme','grande','magma','mygale','egale','egal','legal','legale','large','agile','maigri','maigrie','lego','glace','glacon','garcon','grele','regler','reglera','argile','argot','escargot','champignon','sanglier','foret'])
