@@ -19,4 +19,4 @@ Le but du problème est de générer cette séquence pour une longueur donnée. 
 
 ## Bonus
  - Une hypothèse qui n’a toujours pas été prouvée est que le nombre de 1 et de 2 est égale quand la longueur de la séquence tend vers +∞. Donner le ratio pour une longueur donnée.
- - Trouver le ratio pour une longueur de 1 000 000 000 000 (1012). Il faudra pour cela améliorer l'algorithme car l’espace en mémoire sera le point limitant. En effet, la méthode naïve pour générer la suite a une complexité en mémoire de O(n). Écrire le programme avec une meilleur complexité spatiale (il existe des algorithmes en O(ln(n)).
+ - Trouver le ratio pour une longueur de 1 000 000 000 000 (10<sup>12</sup>). Il faudra pour cela améliorer l'algorithme car l’espace en mémoire sera le point limitant. En effet, la méthode naïve pour générer la suite a une complexité en mémoire de O(n). Écrire le programme avec une meilleur complexité spatiale (il existe des algorithmes en O(ln(n)).
