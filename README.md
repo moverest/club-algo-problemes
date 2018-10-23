@@ -9,6 +9,7 @@ C'est dans ce dépôt que tu trouveras les problèmes proposés par le Club Algo
 | [Anagrammes](anagrammes/sujet.md)                                                 | 2 octobre 2018 à 13 heures  | [voir](anagrammes/solutions)       |
 | [Trouver son chemin entre deux articles sur Wikipédia](chemin_wikipedia/sujet.md) | 9 octobre 2018 à 13 heures  | [voir](chemin_wikipedia/solutions) |
 | [Séquence de Kolakoski](kolakoski/sujet.md)                                       | 16 octobre 2018 à 13 heures | [voir](kolakoski/solutions)        |
+| [Interview 1: Tableaux](interview_1/sujet.md)                                     | 23 octobre 2018 à 13 heures | [voir](interview_1/solutions)      |
 
 
 ## Comment soumettre une solution?
